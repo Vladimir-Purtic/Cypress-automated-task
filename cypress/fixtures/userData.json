@@ -1,0 +1,14 @@
+{
+  "users": {
+    "loginAndRepositoryUser":{
+      "username": "vlada-test1",
+      "email": "purtic20@gmail.com",
+      "password": "Vladimir-Purtic123"
+    },
+    "issueUser":{
+      "username": "vlada-test2",
+      "email": "vpvlajko7@gmail.com",
+      "password": "Vladimir-Purtic123"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "cypress-automated-task",
+  "version": "1.0.0",
+  "description": "Automated test in the Cypress framework as a technical task for RBT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladimir-Purtic/Cypress-automated-task.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "Vladimir Purtic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladimir-Purtic/Cypress-automated-task/issues"
+  },
+  "homepage": "https://github.com/Vladimir-Purtic/Cypress-automated-task#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
